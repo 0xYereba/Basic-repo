@@ -1,0 +1,1 @@
+ MY GOALS FOR THE WEEK:  1) finish my application and get accepted in the alx se program 2) dedicate 5hrs or more to codind daily 3) share and teach what i learn 4) read books(SE related and general purpose) 5) pray and study my bible consistently.
