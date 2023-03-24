@@ -23,6 +23,7 @@ Note that:
 - You were not told what to write in the README file,
 so you're free to write anything but not the main task
 - You were not given the name of the directory or file,
-so, you're free to give them any names, but I that use
-`.txt`, rather than `.md` *(except for the README)*
+so, you're free to give them any names, but I recommend
+that you use `.txt`, rather than `.md` **for your filenames**
+*(except for the README files)*
 
