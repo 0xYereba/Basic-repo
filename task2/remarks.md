@@ -12,14 +12,11 @@ as well
 
 Let us break it into bits:
 1. Create a directory
-
-*You actually did this*
+    - *You actually did this*
 2. Write your goals for the next 3 weeks, in a file inside the directory.
-
-*This was where you missed it, pay attention to the next instruction*
+    - *This was where you missed it, pay attention to the next instruction*
 3. Ensure you have a README there as well
-
-*This means that the README file is different from the
+    - *This means that the README file is different from the
 main task that you were given.*
 
 Note that:
